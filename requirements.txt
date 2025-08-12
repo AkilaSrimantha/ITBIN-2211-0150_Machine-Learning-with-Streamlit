@@ -1,4 +1,4 @@
-ppandas
+pandas
 numpy
 scikit-learn
 matplotlib
@@ -6,5 +6,6 @@ seaborn
 plotly
 streamlit
 joblib
+
 
 
