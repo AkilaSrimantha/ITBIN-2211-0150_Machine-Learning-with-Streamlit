@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Prediction App
+
 
 # 🍷 Wine Quality Prediction App
 
@@ -23,7 +23,7 @@ wine_quality_project/
 ├── model.pkl # Saved trained model
 ├── requirements.txt # Dependencies
 ├── data/
-│ └── winequality-red.csv
+│ └── WineQT.csv
 ├── notebooks/
 │ └── model_training.ipynb
 └── README.md
@@ -35,6 +35,7 @@ Edit
 ---
 
 ## 📊 Dataset Information
+
 - **Source:** UCI Machine Learning Repository  
 - **Records:** 1,599 red wine samples  
 - **Features:** 11 physicochemical attributes:
@@ -49,6 +50,8 @@ Edit
   - pH
   - Sulphates
   - Alcohol
+ 
+  - 
 - **Target Variable:** Quality score (converted to binary classification: Good ≥ 6, Not Good < 6)
 
 ---
@@ -94,8 +97,8 @@ Visualizations: Interactive correlation heatmap.
 
 Prediction: Sliders to set wine chemical properties and get instant predictions.
 
+
 📷 Screenshots
-(Add screenshots after running the app)
 
 Home Page
 
