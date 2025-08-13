@@ -56,7 +56,7 @@ wine_quality_project/
 ## 🛠 Installation & Setup
 ##1️⃣ Clone the Repository
 
-git clone https://github.com/<AkilaSrimantha>/wine-quality-prediction.git
+git clone [https://github.com/<AkilaSrimantha>/wine-quality-prediction.git](https://github.com/AkilaSrimantha/ITBIN-2211-0150_Machine-Learning-with-Streamlit.git)
 cd wine-quality-prediction
 
 2️⃣ Install Dependencies
