@@ -28,9 +28,6 @@ wine_quality_project/
 │ └── model_training.ipynb
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
