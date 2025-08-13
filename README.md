@@ -47,7 +47,7 @@ wine_quality_project/
   - pH
   - Sulphates
   - Alcohol
- 
+  - Water
   - 
 - **Target Variable:** Quality score (converted to binary classification: Good ≥ 6, Not Good < 6)
 
@@ -73,7 +73,7 @@ streamlit run app.py
 The app will open in your browser at http://localhost:8501.
 
 🚀 Deployment
-The app is deployed on Streamlit Cloud and accessible via the following link:
+The app is deployed on Streamlit Cloud and accessible via the following link:https://itbin-2211-0150machine-learning-model-deployment-with-app-mias.streamlit.app/
 🔗 Live App
 
 🤖 Model Information
@@ -95,13 +95,7 @@ Visualizations: Interactive correlation heatmap.
 Prediction: Sliders to set wine chemical properties and get instant predictions.
 
 
-📷 Screenshots
 
-Home Page
-
-Prediction Example
-
-Correlation Heatmap
 
 📚 References
 Cortez, P., et al. (2009). Modeling wine preferences by data mining from physicochemical properties. Decision Support Systems, 47(4), 547–553.
