@@ -12,7 +12,7 @@
 
 ## 📌 Overview
 This project is a **Machine Learning + Streamlit** application that predicts whether a wine is **Good** or **Not Good** based on its chemical properties.  
-The model was trained on the [Wine Quality (Red) Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) from the UCI Machine Learning Repository.  
+The model was trained on the [Wine Quality (Red) Dataset]([https://archive.ics.uci.edu/ml/datasets/Wine+Quality](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)) from the UCI Machine Learning Repository.  
 It demonstrates the complete ML pipeline: **data preprocessing → model training → evaluation → deployment**.
 
 ---
